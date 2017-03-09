@@ -1,0 +1,8 @@
+{
+  "http.port" : 1988,
+  "url": "jdbc:mysql://localhost:3306/whisky",
+  "driver_class": "com.mysql.jdbc.Driver",
+  "user": "root",
+  "password": "password"
+	
+}
